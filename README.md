@@ -10,9 +10,9 @@ It is based off the PSU-Plus, so all rails have a limit of 3A (this only really 
 
 ![](https://github.com/Lazr1026/PSUPlusPlus/blob/main/img/psu.png?raw=true)
 
-The intent is to be used for the Wii U Mini, but if you find another use for this board, have at it!
+The intent is to be used for the Wii U Mini, but if you find another use for this board, have at it!  
 There are two VIN pads. The smaller one is used to power the STBY regulator, while the bigger one is to power all of the other regulators.
 
 ### Credits
-[CrazyGadget](https://github.com/CrazyGadgetMods) / [YveltalGriffin](https://github.com/mackieks): The original PSU-Plus regulator board.
+[CrazyGadget](https://github.com/CrazyGadgetMods) / [YveltalGriffin](https://github.com/mackieks): The original PSU-Plus regulator board.  
 [BitBuilt](https://bitbuilt.net/): Being pretty fucking cool.
